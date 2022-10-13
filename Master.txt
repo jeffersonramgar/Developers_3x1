@@ -68,3 +68,5 @@ Como administrador, cliente
 Dado que quiero ingresar a la aplicación mediante un navegador
 Cuando intente ingresar a la aplicación mediante una URL
 Entonces podré interactuar con la aplicación web
+
+Estoy realizando cambios para el primer Sprint del ciclo 4
